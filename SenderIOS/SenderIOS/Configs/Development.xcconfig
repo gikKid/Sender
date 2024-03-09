@@ -1,0 +1,4 @@
+// Common app settings
+APP_NAME = Sender
+VERSION = 1
+BUILD = 1
